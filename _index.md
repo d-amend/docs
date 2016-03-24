@@ -28,6 +28,7 @@
 * [Extend Daux.io with Processors](!For_Developers/Creating_a_Processor)
 * Full access to the internal API to create new pages programatically
 * Work with pages metadata
+* Some test
 
 </div>
 <div class="col-sm-4">
