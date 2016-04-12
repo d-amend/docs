@@ -15,15 +15,16 @@ Die vorliegende Ordnung bezieht sich auf das [Fab Lab Siegen](http://www.fablab-
 
 ## Lab-Koordination
 
-Mindestens zwei MitarbeiterInnen der Universität Siegen werden durch den Vorstand der iSchool Siegen als Lab-KoordinatorInnen benannt. Diese KoordinatorInnen bekommen schriftlich durch die/den verantwortliche/n Leitende/n des Projektes die Pflicht übertragen, für den regel- und sicherheitskonformen Betrieb des Labors Sorge zu tragen sowie die Lehr- und Forschungsaktivitäten im und um das Labor zu koordinieren. Dem für ein Labor ungewöhnlichen, bürger-orientierten sowie bewusst dynamischen Charakter des Fab Lab Siegen entsprechend, ist dies in enger und individueller Absprache mit dem für Fragen der Arbeitssicherheit zuständigen Bereich Arbeitsschutz der Zentralverwaltung sowie den NutzerInnen des Labors selbst durchzuführen. Für den laufenden Laborbetrieb sind die Lab-KoordinatorInnen zentrale AnsprechpartnerInnen für Unklarheiten, Ausnahmefälle und andere Fragen sowie Probleme. Ihren Anweisungen ist Folge zu leisten.
+Mindestens zwei MitarbeiterInnen der Universität Siegen werden durch den Vorstand der iSchool Siegen als Lab-KoordinatorInnen benannt. Diese KoordinatorInnen bekommen schriftlich durch die/den verantwortliche/n Leitende/n des Projektes die Pflicht übertragen, für den regel- und sicherheitskonformen Betrieb des Labors Sorge zu tragen sowie die Lehr- und Forschungsaktivitäten im und um das Labor zu koordinieren. Dem für ein Labor ungewöhnlichen, bürger-orientierten sowie bewusst dynamischen Charakter des Fab Lab Siegen entsprechend, ist dies in enger und individueller Absprache mit dem für Fragen der Arbeitssicherheit zuständigen Bereich Arbeitsschutz der Zentralverwaltung sowie den NutzerInnen des Labors selbst durchzuführen. Für den laufenden Laborbetrieb sind die Lab-KoordinatorInnen zentrale AnsprechpartnerInnen für Unklarheiten, Ausnahmefälle und andere Fragen sowie Probleme. Ihren Anweisungen ist Folge zu leisten. Aktuelle Lab-Koordination:
 
-*Die Gründungsmitglieder des Labores und ersten Lab-KoordinatorInnen sind:*
+* Oliver Stickel: [oliver.stickel@uni-siegen.de](mailto:oliver.stickel@uni-siegen.de) / Büro US-D105 
+Tel. 0271 740 2576 / Mobil: 015124029989 
+* Dominik Hornung: [dominik.hornung@uni-siegen.de](maito:dominik.hornung@uni-siegen.de) / Büro US-D105
+Tel. 0271 740 5017 / Mobil: 017655489451
 
-* Oliver Stickel: [oliver.stickel@uni-siegen.de](mailto:oliver.stickel@uni-siegen.de) / Büro US-D105 / Tel. 0271 740 2576 / Mobil: 015124029989 
-* Dominik Hornung: [dominik.hornung@uni-siegen.de](maito:dominik.hornung@uni-siegen.de) / Büro US-D105 / Tel. 0271 740 5017 / Mobil: 017655489451
 
-
-# Teil A: Grundregeln
+## Teil A: Grundregeln
+------
 
 ## Zutritt und Benutzung
 
@@ -129,7 +130,8 @@ Für Kinder und Jugendliche verschiebt sich die Logik des Ampelsystems: "Grün" 
 Kinder und Jugendliche dürfen nach Absprache gerne auch an Einweisungen im Labor teilnehmen. Diese Teilnahmen dienen allerdings dem Bildungsauftrag und sollen besonders interessierten Kindern und Jugendlichen Zugangsmöglichkeiten zu Spezialthemen bieten. Sie berechtigen **nicht** zu einer eigenständigen Nutzung und berühren auch die spezifischen Regeln für Kinder und Jugendliche (z.B. hinsichtlich des Ampelsystems) nicht. 
 
 
-# Teil B: Allgemeine Sicherheitsvorschriften
+## Teil B: Allgemeine Sicherheitsvorschriften
+------
 
 ## Allgemeines
 
