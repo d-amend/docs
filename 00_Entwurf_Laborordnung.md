@@ -1,5 +1,3 @@
-## ACHTUNG: DIESER ENTWURF HAT NOCH KEINE GÜLTIGKEIT!
-
 Dieser Entwurf einer Laborordnung für das Fab Lab Siegen wird im April 2016 zu ausschließlich zu Diskussions- und Kommentarzwecken veröffentlicht! Die Inhalte sind gemeinsam von "Makern" und Studierenden, WissenschaftlerInnen, dem Sicherheitsbeauftragten der Uni Siegen sowie dem AMZ Siegen erarbeitet worden. Bevor die Laborordnung formale Gültigkeit durch Beschluss bekommen kann, fehlen noch zwei wesentliche Schritte:
 
 - Kommentierung durch alle interessierten Stakeholder
@@ -7,7 +5,7 @@ Dieser Entwurf einer Laborordnung für das Fab Lab Siegen wird im April 2016 zu 
 
 Kommentare gerne einfach und schnell [hier](http://lab.fablab-siegen.de/b/SN6dN6YDNnPasGnie/fab-lab-siegen/7iTY7YiNciMBBAgXa) oder direkt via [GitHub](https://github.com/FabLabSiegen/docs). Ein Beschließen der Ordnung Mitte-Ende Mai ist angestrebt.
 
-----------
+## Laborordnung (Entwurf)
 
 Die vorliegende Ordnung bezieht sich auf das [Fab Lab Siegen](http://www.fablab-siegen.de), dt. "Fabrikationslabor", im Folgenden "Labor" der Universität Siegen. Das Labor ist eine offene Werkstatt zum Zwecke der Forschung und Lehre zu verteilten Fabrikationsinfrastrukturen. Organisatorisch gliedert sich das Fab Lab Siegen in das gleichnamige Projekt der [iSchool Siegen](http://www.ischool-siegen.de) ein, Prof. Dr. Volkmar Pipek fungiert als übergeordnet verantwortlicher Leiter. 
 
