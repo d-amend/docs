@@ -1,3 +1,5 @@
+## ACHTUNG: ENTWURFSFASSUNG
+
 Dieser Entwurf einer Laborordnung für das Fab Lab Siegen wird im April 2016 zu ausschließlich zu Diskussions- und Kommentarzwecken veröffentlicht! Die Inhalte sind gemeinsam von "Makern" und Studierenden, WissenschaftlerInnen, dem Sicherheitsbeauftragten der Uni Siegen sowie dem AMZ Siegen erarbeitet worden. Bevor die Laborordnung formale Gültigkeit durch Beschluss bekommen kann, fehlen noch zwei wesentliche Schritte:
 
 - Kommentierung durch alle interessierten Stakeholder
@@ -20,7 +22,6 @@ Tel. 0271 740 5017 / Mobil: 017655489451
 
 
 ## Teil A: Grundregeln
-------
 
 ## Zutritt und Benutzung
 
@@ -127,7 +128,6 @@ Kinder und Jugendliche dürfen nach Absprache gerne auch an Einweisungen im Labo
 
 
 ## Teil B: Allgemeine Sicherheitsvorschriften
-------
 
 ## Allgemeines
 
