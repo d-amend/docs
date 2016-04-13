@@ -1,6 +1,4 @@
-## Entwurf Laborordnung Fab Lab Siegen
-
-**ACHTUNG: DIESER ENTWURF HAT NOCH KEINERLEI GÜLTIGKEIT!**
+*ACHTUNG: DIESER ENTWURF HAT NOCH KEINERLEI GÜLTIGKEIT!*
 
 Dieser Entwurf einer Laborordnung für das Fab Lab Siegen wird im April 2016 zu ausschließlich zu Diskussions- und Kommentarzwecken veröffentlicht! Die Inhalte sind gemeinsam von "Makern" und Studierenden, WissenschaftlerInnen, dem Sicherheitsbeauftragten der Uni Siegen sowie dem AMZ Siegen erarbeitet worden. Bevor die Laborordnung formale Gültigkeit durch Beschluss bekommen kann, fehlen noch zwei wesentliche Schritte:
 
