@@ -1,48 +1,63 @@
 <p class="lead">
-	<strong>Daux.io</strong> is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way.
+	<strong>Dokumentationsplattform des Fab Labs Siegen  </strong> mit allen wichtigen Dokumenten zur Arbeit im Lab sowie zur Projektdokumentation.
 </p>
 
 <hr/>
-<h3>Features</h3>
+<h3>Aufbau der Dokumentation:</h3>
 <hr/>
 <div class=row>
 <div class="col-sm-4">
 
-#### For Authors
+#### Regeln
 
-* [Auto Generated Navigation / Page sorting](!Features/Navigation_and_Sorting)
-* [Internal documentation links](!Features/Internal_links)
-* [Github Flavored Markdown](!Features/GitHub_Flavored_Markdown)
-* [Auto created homepage/landing page](!Features/Landing_page)
-* [Multiple Output Formats](!Features/Multiple_Output_Formats)
-* [Multiple Languages Support](!Features/Multilanguage)
-* [No Build Step](!Features/Live_mode)
-* [Static Output Generation](!Features/Static_Site_Generation)
+* [Labororordnung](!Features/Navigation_and_Sorting)
+* [Einweisung](!Features/Internal_links)
+* [Ampelsystem](!Features/GitHub_Flavored_Markdown)
 
 </div>
 <div class="col-sm-4">
 
-#### For Developers
+#### Infrastruktur
 
-* [Auto Syntax Highlighting](!Features/Auto_Syntax_Highlight)
-* [Extend Daux.io with Processors](!For_Developers/Creating_a_Processor)
-* Full access to the internal API to create new pages programatically
-* Work with pages metadata
-* Some test
+* [3D Drucker](!Features/Auto_Syntax_Highlight)
+* [CNC-Fräsen](!For_Developers/Creating_a_Processor)
+* [Elektrowerkzeug](!For_Developers/Creating_a_Processor)
 
 </div>
 <div class="col-sm-4">
 
-#### For Marketing
+#### Projekte
 
-* 100% Mobile Responsive
-* 4 Built-In Themes or roll your own
-* Functional, Flat Design Style
-* Optional code float layout
-* Shareable/Linkable SEO Friendly URLs
-* Supports Google Analytics and Piwik Analytics
+* [Zeit.Raum](!Features/Auto_Syntax_Highlight)
+* [AYA](!Features/Auto_Syntax_Highlight)
+* [Projekt xy](!For_Developers/Creating_a_Processor)
 
 </div>
+<div class="col-sm-4">
+
+#### Fab 1010
+
+* [Lehrplan](!Features/Auto_Syntax_Highlight)
+* [...](!Features/GitHub_Flavored_Markdown)
+
+</div>
+<div class="col-sm-4">
+
+#### Arduino
+
+* [Lehrplan](!Features/Auto_Syntax_Highlight)
+* [...](!Features/GitHub_Flavored_Markdown)
+
+</div>
+<div class="col-sm-4">
+
+#### Social Media
+
+* [Guideline](!Features/Auto_Syntax_Highlight)
+* [...](!Features/GitHub_Flavored_Markdown)
+
+</div>
+
 </div>
 
 <div class="clear"></div>
