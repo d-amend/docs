@@ -4,15 +4,17 @@ Dieser Entwurf einer Laborordnung für das Fab Lab Siegen wird im April 2016 aus
 
 ## Laborordnung (Entwurf)
 
-Die vorliegende Ordnung bezieht sich auf das [Fab Lab Siegen](http://www.fablab-siegen.de), dt. "Fabrikationslabor", im Folgenden "Labor" der Universität Siegen. Das Labor ist eine offene Werkstatt zum Zwecke der Forschung und Lehre zu verteilten Fabrikationsinfrastrukturen. Organisatorisch gliedert sich das Fab Lab Siegen in das gleichnamige Projekt der [iSchool Siegen](http://www.ischool-siegen.de) ein, Prof. Dr. Volkmar Pipek fungiert als übergeordnet verantwortlicher Leiter.
+Die vorliegende Ordnung bezieht sich auf das [Fab Lab Siegen](http://www.fablab-siegen.de), dt. "Fabrikationslabor", im Folgenden "Labor" der Universität Siegen. Das Labor ist eine offene , neuartige Werkstatt zum Zwecke der Forschung und Lehre zu verteilten Fabrikationsinfrastrukturen. 
 
-## Lab-Koordination
+### Lab-Organisation und -Koordination
 
-Mindestens zwei MitarbeiterInnen der Universität Siegen werden durch den Vorstand der iSchool Siegen als Lab-KoordinatorInnen benannt. Diese KoordinatorInnen bekommen schriftlich durch die/den verantwortliche/n Leitende/n des Projektes die Pflicht übertragen, für den regel- und sicherheitskonformen Betrieb des Labors Sorge zu tragen sowie die Lehr- und Forschungsaktivitäten im und um das Labor zu koordinieren. Dem auch bürger-orientierten, offenen und agilen Charakter des Labores entsprechend, ist dies in enger und individueller Absprache mit dem für Fragen der Arbeitssicherheit zuständigen Bereich Arbeitsschutz der Zentralverwaltung sowie den NutzerInnen des Labors selbst durchzuführen. Für den laufenden Laborbetrieb sind die Lab-KoordinatorInnen zentrale AnsprechpartnerInnen für Unklarheiten, Ausnahmefälle und andere Anliegen. Ihren Anweisungen ist Folge zu leisten. Aktuelle Lab-Koordination: [Oliver Stickel](http://www.wiwi.uni-siegen.de/cscw/team/stickel/index.html) und [Dominik Hornung](maito:dominik.hornung@uni-siegen.de).
+Organisatorisch gliedert sich das Fab Lab Siegen in das ebenfalls "Fab Lab Siegen" benannte Forschungsprojekt der [iSchool Siegen](http://www.ischool-siegen.de) ein, Prof. Dr. Volkmar Pipek fungiert als übergeordnet verantwortlicher Leiter. 
+
+Mindestens zwei MitarbeiterInnen der Universität Siegen werden als Lab-KoordinatorInnen benannt. Diese KoordinatorInnen bekommen schriftlich durch die/den verantwortliche/n Leitende/n des Projektes die Pflicht übertragen, für den regel- und sicherheitskonformen Betrieb des Labors Sorge zu tragen sowie die Lehr- und Forschungsaktivitäten im und um das Labor zu koordinieren. Dem auch bürger-orientierten, offenen und agilen Charakter des Labores entsprechend, ist dies in enger und individueller Absprache mit dem für Fragen der Arbeitssicherheit zuständigen Bereich Arbeitsschutz der Zentralverwaltung sowie den NutzerInnen des Labors selbst durchzuführen. Für den laufenden Laborbetrieb sind die Lab-KoordinatorInnen zentrale AnsprechpartnerInnen für Unklarheiten, Ausnahmefälle und andere Anliegen. Ihren Anweisungen ist Folge zu leisten. Aktuelle Lab-Koordination: [Oliver Stickel](http://www.wiwi.uni-siegen.de/cscw/team/stickel/index.html) und [Dominik Hornung](maito:dominik.hornung@uni-siegen.de).
 
 ## Teil A: Grundregeln
 
-## Zutritt und Benutzung
+### Zutritt und Benutzung
 
 Zutritt zum Fab Lab Siegen ist nur mit ausdrücklicher Genehmigung (durch verantw. Leitende bzw. Lab-Koordination) gestattet. Es gelten folgende Ausnahmen:
 
@@ -109,7 +111,7 @@ Für alle anderen Veranstaltungen gilt: Die Teilnahme ist *rechtzeitig vor der V
 
 Im Rahmen von Veranstaltungen im Labor als Teil schulischer Ausbildung besteht gesetzlicher Versicherungsschutz für Kinder und Jugendliche.
 
-***Ergänzung hier analog zum Versicherungsschutz für Erwachsene auf Basis des endgültigen gewählten Versicherungsproduktes**
+***Stand Juni 2016: Ergänzung hier analog zum Versicherungsschutz für Erwachsene auf Basis des endgültigen gewählten Versicherungsproduktes**
 
 ### Ampelsystem für Kinder und Jugendliche
 
@@ -123,7 +125,7 @@ Kinder und Jugendliche dürfen nach Absprache gerne auch an Einweisungen im Labo
 
 ## Teil B: Allgemeine Sicherheitsvorschriften
 
-## Allgemeines
+### Allgemeines
 
 Grundsätzlich sollten alle Tätigkeiten im Fab Lab nur durchgeführt werden, wenn mindestens eine andere Person im Labor anwesend ist, die nicht die gleiche Tätigkeit durchführt und die ggf. Erste Hilfe leisten kann und/oder Hilfe holen kann. Ausnahmen sind die Nutzung des Labors für gefährdungsarme Tätigkeiten wie z.B. Zeichnen, Arbeiten am Computer oder leichte Aufräumarbeiten.
 
@@ -131,7 +133,7 @@ Bei Tätigkeiten mit erhöhter Brand- oder Verletzungsgefahr (z.B. Arbeiten mit 
 
 Für elektrotechnische Projekte darf im Labor grundsätzlich **nicht mit Netzspannung** gearbeitet werden, sondern maximal mit 60V Gleich- oder 25V Wechselspannung. Ausnahmen hierfür können für entsprechend zertifizierte Fachkräfte projektspezifisch gemacht werden, dies allerdings nur nach individueller Absprache.
 
-## Kleidung/Schutzausrüstung
+### Kleidung/Schutzausrüstung
 
 Persönliche Schutzausrüstung ist zu verwenden, Schutzbrillen, Ohrstöpsel, etc. liegen in beschrifteten Boxen aus. Welche Schutzausrüstung verwendet wird, ist aufgabenspezifisch. Bei allen Arbeiten, die fliegende Späne, spritzende Flüssigkeiten o.Ä. beinhalten können, muss mindestens eine geeignete Schutzbrille mit Seitenschutz getragen werden. Für den Fall, dass mit Chemikalien (z.B. Entfettungsmittel) gearbeitet werden soll, sind geeignete Schutzhandschuhe zu tragen. Bei erhöhter Lärmbelastung ist Gehörschutz zu tragen. An den Fräsen liegt zusätzlich Kapselgehörschutz ("Micky-Mouse"-Kopfhörer) aus, der nach Bedarf natürlich auch anderswo im Labor verwendet werden kann und soll.
 
@@ -142,27 +144,27 @@ Grundsätzlich gilt: Schutzausrüstungen sind vor Gebrauch einer Sichtprüfung z
 
 Abweichung von den Regeln zur eigenen Kleidung ist nur im Sozialbereich des Labors erlaubt, allerdings nur dann, wenn keine Versuche stattfinden, die ggf. diesen Bereich tangieren könnten.
 
-## Essen, Trinken, Rauchen
+### Essen, Trinken, Rauchen
 
 * Speisen sind lediglich im Sozialbereich erlaubt und müssen auch hier verschlossen aufbewahrt werden.
 * Getränke sind außerhalb des Sozialbereiches nur in geschlossenen Flaschen/Behältnissen erlaubt.
 * Das Rauchen ist - wie in allen Räumen der Universität - verboten, direkt vor der Eingangstür gibt es jedoch eine Raucherecke.
 
 
-## Bezahlung und Verwendung vorhandener Materialien
+### Bezahlung und Verwendung vorhandener Materialien
 
 Die Entwicklung eines Finanzierungs- und Bezahlmodells für Fab Labs ist Teil der Forschungsarbeit des Labors, weshalb sich diesbezügliche Regelungen dynamisch ändern können und sollen. Wenn keine Preise im Labor ausgehängt und online bekanntgegeben sind, ist die Nutzung des betreffenden Gerätes kostenlos.
 
 Im Labor existiert ein Lager, in dem unter anderem Altgeräte, nicht mehr benötigte Komponenten, Abschnitte etc. gelagert werden und die entsprechend gekennzeichnet sind. Diese Gegenstände können frei für Projekte verwendet werden. **Bedingung hierfür** ist allerdings, dass das entsprechende Projekt dokumentiert wird, also als Gegenleistung für die kostenlose Nutzung auch Wissen an die Gemeinschaft zurückgegeben wird. Der Umfang der Dokumentation ist dem Projekt anzupassen - für einen sehr kleinen Versuchsaufbau kann z.B. ein Foto mit Kurzbeschreibung für die Website ausreichen, größere Projekte müssen [online](http://lab.fablab-siegen.de/b/SN6dN6YDNnPasGnie/fab-lab-siegen) ausführlicher dokumentiert werden.  
 
 
-## Notfälle
+### Notfälle
 
 Notruf: Zentrale Notrufnummer der Universität: **-2111** (Interne Durchwahl). Per Handy: **0271 740 2111**. 
 
 Hier werden alle weiteren Maßnahmen getätigt. Außerhalb der Dienstzeit (Mo-Fr 06-22 Uhr, Sa 08-12 Uhr) wird die Nummer an den Wachdienst weitergeleitet. Sollte die Nummer nicht erreichbar sein, kann von allen Telefonen der Universität per Kurzwahl 6-112 der Rettungsdienst alarmiert werden.
 
-### Vorgehen bei Unfällen
+#### Vorgehen bei Unfällen
 
 - Eigenschutz beachten!
 - Gefahrenbereich absichern oder Personen aus Gefahrenbereich bringen.
@@ -173,7 +175,7 @@ Hier werden alle weiteren Maßnahmen getätigt. Außerhalb der Dienstzeit (Mo-Fr
 - Lab-KoordinatorInnen informieren.
 - Alle (auch kleinere) Verletzungen müssen im Verbandbuch beim Erste-Hilfe-Set dokumentiert werden. Bitte die Lab-KoordinatorInnen immer informieren, auch wenn nur ein kleines Pflaster benötigt wurde - die Bestände müssen schließlich aufgefüllt werden!
 
-### Vorgehen im Brandfall
+#### Vorgehen im Brandfall
 
 - Eigenschutz beachten!
 - Notruf: an die Zentrale Leittechnik der Universität, Notrufnummer 2111.
@@ -184,7 +186,7 @@ Hier werden alle weiteren Maßnahmen getätigt. Außerhalb der Dienstzeit (Mo-Fr
 - Der dem Fab Lab am nächsten liegende Sammelplatz ist gegenüber des Gebäudes über die Kohlbettstraße auf dem Parkplatz vor dem Cafe Planlos (für mehr Details s. Fluchtwegpläne).
 - Am Sammelplatz auf Vollständigkeit prüfen.
 
-### Bränden vorbeugen
+#### Bränden vorbeugen
 
 - Alle Personen im Labor müssen die Standorte von Not-Aus-Einrichtungen (Strom/Gas), Fluchtwege, Erste-Hilfe-Einrichtungen (Verbandkasten,) sowie Feuerlöscheinrichtungen kennen.
 - Fluchtwege immer in voller Breite freihalten (Türen + Fenster!).
@@ -207,9 +209,9 @@ Die Verwendung von Holzkeilen oder anderen Gegenständen zum Offenhalten der Tü
 Details zu den Brandschutzregelungen sind der Brandschutzordnung der Universität, Teile A und B zu entnehmen.
 
 
-## Versuchsaufbauten
+### Versuchsaufbauten
 
-###  Allgemein
+####  Allgemein
 
 - Versuchsaufbauten müssen ausreichend standfest, stabil und für die verwendeten Temperaturen, mechanischen Bewegungen und ggf. Chemikalien geeignet sein.
 - Bei unbeaufsichtigten Dauerversuchen sind ggf. Schutzmaßnahmen für Störfälle (Stromausfall, Ausfall der Kühlung, unerwartete Reaktionen) vorzusehen.
@@ -218,14 +220,14 @@ Details zu den Brandschutzregelungen sind der Brandschutzordnung der Universitä
 - Versuchsaufbauten dürfen erstmalig nur entsprechend der Ampelregelung in Betrieb genommen werden. Bei Unklarheiten muss Absprache mit den Lab-KoordinatorInnen vorgenommen werden.
 
 
-### Schutz gegen elektrische Gefahren
+#### Schutz gegen elektrische Gefahren
 
 - Bei Aufbauten mit elektrischen Betriebsmitteln ist darauf zu achten, dass diese unbeschädigt und für den Versuchszweck geeignet sind.
 - In Bereichen, in denen die Möglichkeit von Flüssigkeitsspritzern besteht, dürfen nur entsprechend spritz(wasser)geschützte Geräte verwendet werden (z.B. neben Spülbecken).
 - Niemals dürfen Versuchsaufbauten in Betrieb genommen werden, bei denen Kontaktteile mit gefährlichen Spannungen (z.B. Netzspannung) frei zugänglich sind.
 - Reparaturen und Wartungsarbeiten an elektrischen Geräten dürfen nur durch entsprechend qualifizierte Personen (Elektriker) durchgeführt werden.
 
-### Schutz gegen mechanische Gefahren
+#### Schutz gegen mechanische Gefahren
 
 - Besteht die Gefahr, dass Teile aus dem Versuchsaufbau herausgeschleudert werden, so sind feste Schutzabdeckungen zu installieren.
 - Bei Bewegungen mit einer Geschwindigkeit von mehr als 10 mm/s sind Schutzmaßnahmen zu ergreifen, die ein versehentliches Hineingreifen in Quetsch- und Scherstellen verhindern. Dies kann z.B. durch feste Abdeckungen direkt an den Gefahrenstellen oder eine wirksame Absperrung des gesamten Gefahrenbereichs erfolgen.
@@ -234,19 +236,19 @@ Details zu den Brandschutzregelungen sind der Brandschutzordnung der Universitä
 - Arbeiten an hydraulisch oder mit Druckluft betriebenen Teilen von Versuchsaufbauten dürfen erst durchgeführt werden, wenn diese drucklos gemacht und gegen erneuten Druckaufbau gesichert wurden. Werden durch den Druckabfall Bewegungen ausgelöst, so sind diese durch geeignete Maßnahmen zu verhindern, z.B. durch Arretierung betreffender Teile oder vorheriges Anfahren einer sichern Stellung.
 - Bei Arbeiten in der Nähe von freischwingenden Teilen wie Pendeln o.ä., diese vorher gegen Bewegung sichern oder abhängen.
 
-### Schutz gegen thermische Gefahren
+#### Schutz gegen thermische Gefahren
 
 - Bei Arbeiten mit Öfen, heißen Werkstücken oder offenen Flammen ist darauf zu achten, dass in der direkten Umgebung keine leicht brennbaren Materialien (insbesondere Papier und Gefahrstoffe) vorhanden sind. Die Oberflächen der Arbeitstische sollten nicht brennbar sein bzw. mit Fliesen etc. abgedeckt werden.
 - Die Arbeitskleidung sollte einen möglichst hohen Baumwollanteil aufweisen (Kunstfasern entzünden sich leicht und verkleben auf der Haut).
 - Bei der Handhabung heißer Teile sind Hilfsmittel (Zangen etc.) zu nutzen und hitzebeständige Schutzhandschuhe zu tragen.
 
-## Umgang mit Maschinen
+### Umgang mit Maschinen
 
 - Maschinen und Geräte dürfen nur von den Personen in Betrieb genommen werden, die durch eine der oben genannten verantwortlichen Personen im sachgerechten Umgang unterwiesen worden sind.
 - Für den Umgang mit gefährlichem Maschinen und Anlagen werden durch die Lab-KoordinatorInnen Betriebsanweisungen erstellt, in denen die die wichtigsten Schutzmaßnahmen und Verhaltensregeln aufgeführt sind. Diese Betriebsanweisungen sind zu beachten!
 - Maschinen dürfen nur in Betrieb genommen werden, wenn die vorgesehenen Schutzeinrichtungen vorhanden und wirksam sind. Die Manipulation von Schutzeinrichtungen ist verboten und kann strafrechtliche Folgen haben.
 
-## Umgang mit Gefahrstoffen
+### Umgang mit Gefahrstoffen
 
 - Der Umgang mit Gefahrstoffen ist auf das erforderliche Minimum zu beschränken.
 - Gefahrstoff-Behältnisse sind deutlich mit ihrem Inhaltsstoff sowie eventuellen Gefahrensymbolen zu kennzeichnen. Sie sind sofort nach Gebrauch wieder zu verschließen.
@@ -261,7 +263,7 @@ Details zu den Brandschutzregelungen sind der Brandschutzordnung der Universitä
 - Beim Umgang mit Gefahrstoffen ist der Verzehr von Lebensmitteln grundsätzlich verboten.
 - Für den Umgang mit „gefährlicheren“ Stoffen werden durch die oben genannten Verantwortlichen Gefahrstoff-Betriebsanweisungen erstellt, in denen die die wichtigsten Schutzmaßnahmen und Verhaltensregeln aufgeführt sind. Diese Betriebsanweisungen sind zu beachten!
 
-## Umgang mit Gasflaschen
+### Umgang mit Gasflaschen
 
 - Die Verwendung von Gasflaschen im Labor ist nur nach vorheriger Genehmigung durch die Lab-KoordinatorInnen erlaubt.
 - Giftige Gase dürfen nicht verwendet werden.
@@ -282,11 +284,11 @@ Bei dauerhaftem Einsatz - sind feste Gasleitungen zu verlegen.
 - Gasschläuche sind vor Benutzung unbedingt einer Sichtprüfung zu unterziehen. Poröse, stark geknickte oder beschädigte Schläuche dürfen nicht eingesetzt werden.
 - Beim Anschluss von Gasschläuchen immer auf festen Sitz achten.
 
-## Bindemittel für ausgelaufene Flüssigkeiten
+### Bindemittel für ausgelaufene Flüssigkeiten
 Ausgelaufene Flüssigkeiten/Öle sind mit Sand (Standort: Lager) abzustreuen und anschließend mit einem Handfeger aufzunehmen. Handfeger und anderes Reinigungswerkzeug befindet sich ebenfalls im Lager.
 
 
-## Unbeaufsichtigte Versuche
+### Unbeaufsichtigte Versuche
 Unbeaufsichtigt dürfen Versuche nur dann laufen, wenn sichergestellt ist, dass
 - Andere Personen nicht in den Versuch eingreifen können bzw. durch diesen gefährdet werden,
 - Auch bei Ausfall von Strom, Kühlwasser etc. keine gefährlichen Zustände auftreten können,
