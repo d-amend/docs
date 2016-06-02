@@ -1,6 +1,6 @@
 {
     "title": "Fab Lab Siegen",
-    "tagline": "Dokumentationsplattform",
+    "tagline": "Docs",
     "author": "Fab Lab Siegen",
     "image": "fablablogo.png",
     "ignore": {
@@ -21,12 +21,11 @@
 
         "repo": "fablabsiegen",
         "twitter": ["FabLabSiegen"],
-        "google_analytics": "UA-12653604-10",
         "links": {
             "Website Fab Lab Siegen": "http://fablab-siegen.de",
             "GitHub Fab Lab Siegen": "https://github.com/FabLabSiegen",
-            "Wekan - Öffentliche Lab-Verwaltung": "http://lab.fablab-siegen.de/b/SN6dN6YDNnPasGnie/fab-lab-siegen",
-            "Kontakt": "mailto:oliver.stickel@uni-siegen.de"
+            "Wekan: Öffentliche Lab-Verwaltung": "http://lab.fablab-siegen.de/b/SN6dN6YDNnPasGnie/fab-lab-siegen",
+            "Kontakt": "http://fablab-siegen.de/kontakt/"
         }
     }
 }
