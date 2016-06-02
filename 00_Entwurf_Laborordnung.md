@@ -1,6 +1,6 @@
 ## ACHTUNG: ENTWURFSFASSUNG
 
-Dieser Entwurf einer Laborordnung für das Fab Lab Siegen wird im April 2016 ausschließlich zu Diskussions- und Kommentarzwecken veröffentlicht! Die Inhalte sind gemeinsam von Makern. Studierenden, WissenschaftlerInnen, dem Sicherheitsbeauftragten der Uni Siegen sowie dem AMZ Siegen erarbeitet worden. Zum 03.06.2016 geht der Entwurf in die Beschlussphase innerhalb der Universität.
+Dieser Entwurf einer Laborordnung für das Fab Lab Siegen wird im April 2016 ausschließlich zu Diskussions- und Kommentarzwecken veröffentlicht! Die Inhalte sind gemeinsam von Makern. Studierenden, WissenschaftlerInnen, dem Sicherheitsbeauftragten der Uni Siegen sowie dem AMZ Siegen erarbeitet worden und greift auch auch auf Erkenntnisse anderer Fab Labs zurück. Zum 03.06.2016 geht der Entwurf in die Beschlussphase innerhalb der Universität.
 
 ## Laborordnung (Entwurf)
 
