@@ -1,5 +1,6 @@
 {
     "title": "Fab Lab Siegen: Docs",
+    "tagline": false,
     "author": "Fab Lab Siegen",
     "image": "fablablogo.png",
     "ignore": {
