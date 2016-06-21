@@ -4,11 +4,11 @@ Dieser Entwurf einer Laborordnung für das Fab Lab Siegen wird im April 2016 aus
 
 ## Laborordnung (Entwurf)
 
-Die vorliegende Ordnung bezieht sich auf das [Fab Lab Siegen](http://www.fablab-siegen.de), dt. "Fabrikationslabor", im Folgenden "Labor" der Universität Siegen. Das Labor ist eine offene , neuartige Werkstatt zum Zwecke der Forschung und Lehre zu verteilten Fabrikationsinfrastrukturen. 
+Die vorliegende Ordnung bezieht sich auf das [Fab Lab Siegen](http://www.fablab-siegen.de), dt. "Fabrikationslabor", im Folgenden "Labor" der Universität Siegen. Das Labor ist eine offene , neuartige Werkstatt zum Zwecke der Forschung und Lehre zu verteilten Fabrikationsinfrastrukturen.
 
 ### Lab-Organisation und -Koordination
 
-Organisatorisch gliedert sich das Fab Lab Siegen in das ebenfalls "Fab Lab Siegen" benannte Forschungsprojekt der [iSchool Siegen](http://www.ischool-siegen.de) ein, Prof. Dr. Volkmar Pipek fungiert als übergeordnet verantwortlicher Leiter. 
+Organisatorisch gliedert sich das Fab Lab Siegen in das ebenfalls "Fab Lab Siegen" benannte Forschungsprojekt der [iSchool Siegen](http://www.ischool-siegen.de) ein, Prof. Dr. Volkmar Pipek fungiert als übergeordnet verantwortlicher Leiter.
 
 Mindestens zwei MitarbeiterInnen der Universität Siegen werden als Lab-KoordinatorInnen benannt. Diese KoordinatorInnen bekommen schriftlich durch die/den verantwortliche/n Leitende/n des Projektes die Pflicht übertragen, für den regel- und sicherheitskonformen Betrieb des Labors Sorge zu tragen sowie die Lehr- und Forschungsaktivitäten im und um das Labor zu koordinieren. Dem auch bürger-orientierten, offenen und agilen Charakter des Labores entsprechend, ist dies in enger und individueller Absprache mit dem für Fragen der Arbeitssicherheit zuständigen Bereich Arbeitsschutz der Zentralverwaltung sowie den NutzerInnen des Labors selbst durchzuführen. Für den laufenden Laborbetrieb sind die Lab-KoordinatorInnen zentrale AnsprechpartnerInnen für Unklarheiten, Ausnahmefälle und andere Anliegen. Ihren Anweisungen ist Folge zu leisten. Aktuelle Lab-Koordination: [Oliver Stickel](http://www.wiwi.uni-siegen.de/cscw/team/stickel/index.html) und [Dominik Hornung](maito:dominik.hornung@uni-siegen.de).
 
@@ -58,12 +58,17 @@ Alle Einweisungen im Labor beziehen sich auf spezifische Geräte, Funktionsberei
 
 Die allgemeine Sicherheitseinweisung wird *verpflichtend* für die Teilnahme an allen anderen Einweisungen des Labors vorausgesetzt.
 
+### Bezahlung und Verwendung vorhandener Materialien
+
+Die Entwicklung eines Finanzierungs- und Bezahlmodells für Fab Labs ist Teil der Forschungsarbeit des Labors, weshalb sich diesbezügliche Regelungen dynamisch ändern können und sollen. Wenn keine Preise im Labor ausgehängt und online bekanntgegeben sind, ist die Nutzung des betreffenden Gerätes kostenlos.
+
+Im Labor existiert ein Lager, in dem unter anderem Altgeräte, nicht mehr benötigte Komponenten, Abschnitte etc. gelagert werden und die entsprechend gekennzeichnet sind. Diese Gegenstände können frei für Projekte verwendet werden. **Bedingung hierfür** ist allerdings, dass das entsprechende Projekt dokumentiert und so Wissen an die Gemeinschaft zurückgegeben wird. Der Umfang der Dokumentation ist dem Projekt anzupassen - für einen sehr kleinen Versuchsaufbau kann z.B. ein Foto mit Kurzbeschreibung für die Website ausreichen, größere Projekte sollten [online](http://lab.fablab-siegen.de/b/SN6dN6YDNnPasGnie/fab-lab-siegen) ausführlicher dokumentiert werden.  
 
 ### Teilnahme an Forschungsaktivitäten
 
-Die Kernaufgabe des Labors ist es, Forschung über Fab Labs an sich, digitale Fabrikation, *Maker-Kultur* und themenverwandte Fragen zu betreiben sowie weitere interessierten ForscherInnen dabei zu unterstützen. Der laufende Betrieb sowie Veranstaltungen im und um das Fab Lab werden grundsätzlich wissenschaftlich begleitet, beispielsweise durch Beobachtungen, aber auch spätere Analysen von eventuell veröffentlichten Dokumentationen, digitalen oder physikalischen Artefakten und weitere Forschungstätigkeiten. Wichtig ist hierbei, dass für diese kontinuierlich laufenden allgemeinen Forschungstätigkeiten **keine persönlichen Daten** gesammelt werden und alle Erkenntnisse ausschließlich wissenschaftlich und anonymisiert verwendet werden.
+Kernaufgabe des Labors ist es, Forschung über Fab Labs an sich, digitale Fabrikation, *Maker-Kultur* und themenverwandte Fragen zu betreiben sowie weitere interessierten ForscherInnen dabei zu unterstützen. Der laufende Betrieb sowie Veranstaltungen im und um das Fab Lab werden grundsätzlich wissenschaftlich begleitet, beispielsweise durch Beobachtungen, aber auch spätere Analysen von eventuell veröffentlichten Dokumentationen, digitalen oder physikalischen Artefakten und weitere Forschungstätigkeiten. Wichtig ist hierbei, dass für diese kontinuierlich laufenden allgemeinen Forschungstätigkeiten **keine persönlichen Daten** gesammelt werden und alle Erkenntnisse ausschließlich wissenschaftlich und anonymisiert verwendet werden.
 
-Mit der Teilnahme an den bis hier aufgeführten allgemeinen Forschungsaktivitäten erklären sich NutzerInnen des Labors mit Anerkennung der Laborordnung im Rahmen der Einweisung in die Grundlegeln einverstanden. NutzerInnen können der Teilnahme jederzeit schriftlich formlos  widersprechen.
+Mit der Teilnahme an den bis hier aufgeführten allgemeinen Forschungsaktivitäten erklären sich NutzerInnen des Labors mit Anerkennung der Laborordnung im Rahmen der Einweisung in die Grundlegeln einverstanden. NutzerInnen können der Teilnahme jederzeit schriftlich formlos widersprechen.
 
 Im Laufe des Betriebes können und werden auch Einzelprojekte, die Aktivitäten bestimmter Gruppen/Individuen o.Ä. in das Forschungsinteresse rücken und vertieft analysiert werden (*spezielle Forschungstätigkeiten*). Dies darf  **ausschließlich** nach Absprache und mit explizitem Einverständnis aller beteiligten Personen unter Einhaltung der Standards guter wissenschaftlicher Praxis geschehen. NutzerInnen des Labors erklären sich also mit Anerkennung dieser Laborordnung **nicht** zur Teilnahme an speziellen Forschungstätigkeiten bereit, bei denen persönliche oder Projekt-Daten (z.B. geistiges Eigentum) o.Ä. spezieller Forschungsgegenstand sind.
 
@@ -73,17 +78,17 @@ Ein Unfallversicherungsschutz über die zuständige Landesunfallkasse besteht f�
 
 Alle NutzerInnen des Labors haften für Schäden, die sie durch unsachgemäße Benutzung der vorhandenen Einrichtungen und Geräte verursacht haben. Der Abschluss einer Haftpflichtversicherung wird daher empfohlen.
 
-**Weiterer Stand Juni 2016:** Der Abschluss einer Betriebshaftpflichtversicherung ist notwendig. Eine einfache, wenngleich nicht unbedingt preisgünstige, Lösung ist der Erwerb eines traditionellen Versicherungsproduktes. Alternativ ist derzeit in Prüfung, ob ein Angebot des Verbandes der offenen Werkstätten ausreicht (http://www.offene-werkstaetten.org/seite/versicherung) und auch die Landesunfallkasse diskutiert die veränderte Bedürfnislage zahlreicher neuartiger, offener Werkstätten und ähnlicher Orte, benötigt jedoch noch Diskussion, Einblick und Stimmen (wobei Kooperation mit dem Fab Lab Siegen besprochen wurde). Je nach Entwicklung in den nächsten Monaten soll die Laborordnung mit einem Passus vervollständigt werden, der die endgültige Lösung darstellt. 
+**Weiterer Stand Juni 2016:** Der Abschluss einer Betriebshaftpflichtversicherung ist notwendig. Eine einfache, wenngleich nicht unbedingt preisgünstige, Lösung ist der Erwerb eines traditionellen Versicherungsproduktes. Alternativ ist derzeit in Prüfung, ob ein Angebot des Verbandes der offenen Werkstätten ausreicht (http://www.offene-werkstaetten.org/seite/versicherung) und auch die Landesunfallkasse diskutiert die veränderte Bedürfnislage zahlreicher neuartiger, offener Werkstätten und ähnlicher Orte, benötigt jedoch noch Diskussion, Einblick und Stimmen (wobei Kooperation mit dem Fab Lab Siegen besprochen wurde). Je nach Entwicklung in den nächsten Monaten soll die Laborordnung mit einem Passus vervollständigt werden, der die endgültige Lösung darstellt.
 
 
 ## Sauberkeit, Lärm und Abfälle
 
-Alle BenutzerInnen des Fab Lab Siegen übernehmen Mitverantwortung dafür, das Labor sauber und ordentlich zu halten und Ausrüstung pfleglich zu behandeln.Das Labor sollte *nach Nutzung in ebenso gutem und sauberem (oder besserem) Zustand sein als vor Arbeitsbeginn*. 
+Alle BenutzerInnen des Fab Lab Siegen übernehmen Mitverantwortung dafür, das Labor sauber und ordentlich zu halten und Ausrüstung pfleglich zu behandeln.Das Labor sollte *nach Nutzung in ebenso gutem und sauberem (oder besserem) Zustand sein als vor Arbeitsbeginn*.
 
 Hierzu gehört insbesondere das Zurück- / Einräumen verwendeter Gegenstände an ihren Lagerort oder aber im Bedarfsfalle das selbständige Schaffen eines neuen, beschrifteten Lagerortes an den im Labor ausgewiesenen Standorten. Es ist beispielsweise auch zu vermeiden, Stolperfallen durch Kabel zu schaffen, ausgelaufene Flüssigkeiten sollten aufgewischt werden, verletzungsgefährdende Aufbauten sind zu vermeiden, etc. - kurz gesagt: **Anwendung des gesunden Menschenverstandes ist Grundvoraussetzung.**
 
 #### Zurückgelassene Gegenstände
-Werden (eigene) Gegenstände wie z.B. Bauteile liegengelassen, so gehen diese nach spätestens 48 Stunden ohne initiative Meldung der Eigentümer in den Bestand des Labors über und werden zur allgemeinen Verwendung ins Lager einsortiert. 
+Werden (eigene) Gegenstände wie z.B. Bauteile liegengelassen, so gehen diese nach spätestens 48 Stunden ohne initiative Meldung der Eigentümer in den Bestand des Labors über und werden zur allgemeinen Verwendung ins Lager einsortiert.
 
 #### Nutzungsende
 Am Ende der Nutzung sollten benutzte Gerätschaften abgeschaltet werden, soweit dies sinnvoll und gewünscht ist (entsprechende Ausnahmen sind an den betreffenden Geräten vermerkt). Sollten z.B. mehrtätige Versuchsaufbauten oder andere Großprojekte notwendig sein, können in Absprache mit den Lab-KoordinatorInnen Ausnahmeregeln getroffen werden. Für solche Fälle ist grundsätzlich auch der Bereich Arbeitsschutz der Zentralverwaltung zu informieren.
@@ -101,7 +106,7 @@ Kinder und Jugendliche dürfen sich im Normalfall nicht im Labor aufhalten. Ausn
 
 ### Aufsicht für Kinder und Jugendliche
 
-Zu unterscheiden sind Veranstaltungen mit Kindern und Jugendlichen als Teil ihrer schulischen Ausbildung und alle anderen Arten von Veranstaltungen. Veranstaltungen als Teil der schulischen oder beruflichen Ausbildung sind alle Arten von offiziellen Veranstaltungen der betreffenden Schulen, also z.B. im Labor durchgeführte Schulstunden. Dies umfasst jedoch *keine* Teilnahme an Hochschul-Veranstaltungen in der Freizeit wie z.B. die Kinderuni. 
+Zu unterscheiden sind Veranstaltungen mit Kindern und Jugendlichen als Teil ihrer schulischen Ausbildung und alle anderen Arten von Veranstaltungen. Veranstaltungen als Teil der schulischen oder beruflichen Ausbildung sind alle Arten von offiziellen Veranstaltungen der betreffenden Schulen, also z.B. im Labor durchgeführte Schulstunden. Dies umfasst jedoch *keine* Teilnahme an Hochschul-Veranstaltungen in der Freizeit wie z.B. die Kinderuni.
 
 Für Veranstaltungen im Rahmen der schulischen Ausbildung gelten die Vorschriften und Vereinbarungen zur Aufsichtspflicht der betreffenden Schulen.
 
@@ -111,7 +116,7 @@ Für alle anderen Veranstaltungen gilt: Die Teilnahme ist *rechtzeitig vor der V
 
 Im Rahmen von Veranstaltungen im Labor als Teil schulischer Ausbildung besteht gesetzlicher Versicherungsschutz für Kinder und Jugendliche.
 
-***Stand Juni 2016: Ergänzung hier analog zum Versicherungsschutz für Erwachsene auf Basis des endgültigen gewählten Versicherungsproduktes**
+**Stand Juni 2016: Ergänzung hier analog zum Versicherungsschutz für Erwachsene auf Basis des endgültigen gewählten Versicherungsproduktes**
 
 ### Ampelsystem für Kinder und Jugendliche
 
@@ -150,17 +155,9 @@ Abweichung von den Regeln zur eigenen Kleidung ist nur im Sozialbereich des Labo
 * Getränke sind außerhalb des Sozialbereiches nur in geschlossenen Flaschen/Behältnissen erlaubt.
 * Das Rauchen ist - wie in allen Räumen der Universität - verboten, direkt vor der Eingangstür gibt es jedoch eine Raucherecke.
 
-
-### Bezahlung und Verwendung vorhandener Materialien
-
-Die Entwicklung eines Finanzierungs- und Bezahlmodells für Fab Labs ist Teil der Forschungsarbeit des Labors, weshalb sich diesbezügliche Regelungen dynamisch ändern können und sollen. Wenn keine Preise im Labor ausgehängt und online bekanntgegeben sind, ist die Nutzung des betreffenden Gerätes kostenlos.
-
-Im Labor existiert ein Lager, in dem unter anderem Altgeräte, nicht mehr benötigte Komponenten, Abschnitte etc. gelagert werden und die entsprechend gekennzeichnet sind. Diese Gegenstände können frei für Projekte verwendet werden. **Bedingung hierfür** ist allerdings, dass das entsprechende Projekt dokumentiert wird, also als Gegenleistung für die kostenlose Nutzung auch Wissen an die Gemeinschaft zurückgegeben wird. Der Umfang der Dokumentation ist dem Projekt anzupassen - für einen sehr kleinen Versuchsaufbau kann z.B. ein Foto mit Kurzbeschreibung für die Website ausreichen, größere Projekte müssen [online](http://lab.fablab-siegen.de/b/SN6dN6YDNnPasGnie/fab-lab-siegen) ausführlicher dokumentiert werden.  
-
-
 ### Notfälle
 
-Notruf: Zentrale Notrufnummer der Universität: **-2111** (Interne Durchwahl). Per Handy: **0271 740 2111**. 
+Notruf: Zentrale Notrufnummer der Universität: **-2111** (Interne Durchwahl). Per Handy: **0271 740 2111**.
 
 Hier werden alle weiteren Maßnahmen getätigt. Außerhalb der Dienstzeit (Mo-Fr 06-22 Uhr, Sa 08-12 Uhr) wird die Nummer an den Wachdienst weitergeleitet. Sollte die Nummer nicht erreichbar sein, kann von allen Telefonen der Universität per Kurzwahl 6-112 der Rettungsdienst alarmiert werden.
 
