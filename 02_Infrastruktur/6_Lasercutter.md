@@ -1,7 +1,7 @@
 
 ## EAS
 
-![](Laser_Images/test.png)
+![](Laser_Images/photo_lasercutter_01.png)
 
 * Hersteller: EAS
 
