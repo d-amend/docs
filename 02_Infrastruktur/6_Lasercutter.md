@@ -1,7 +1,6 @@
 
 ## EAS
-![Lasercutter](Laser_Images/photo_2016-06-28_12-39-31.jpg)
-<img alt="Lasercutter" scr="Laser_Images/photo_2016-06-28_12-39-31.jpg" height="50%">
+<img alt="Lasercutter" src="Laser_Images/photo_2016-06-28_12-39-31.jpg" height="50%">
 * Hersteller: EAS
 
 ## Bedienungsanleitung:
