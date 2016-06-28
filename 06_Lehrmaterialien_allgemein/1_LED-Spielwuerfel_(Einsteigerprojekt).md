@@ -1,4 +1,4 @@
-**Arduino - was ist das eigentlich?**
+##LED-Würfel mit Arduino (Einsteigerprojekt)?
 
 ![arduinobeispiel](Lehrmaterialien_allgemein/arduino/anschliessen.jpg)
 
@@ -8,7 +8,7 @@ Der Fantasie sind kaum Grenzen gesetzt - vom eigenen Fahrradcomputer über Ferns
 
 Als erstes Projekt bauen wir einen kleinen „Würfel“, der aus einem Arduino, einer LED (kann leuchten), einem Schalter und einigen Widerständen (elektronische Bauteile) besteht. Auf Knopfdruck blinkt die LED zufällig 1-6 mal und kann so als Spielewürfel verwendet werden. Wie das finale Projekt aussieht, siehst du rechts.
 
-**Vorbereitung**
+## Vorbereitung
 
 Wie erwähnt hat so ein Arduino keine Tastatur und keinen Bildschirm. Man benötigt also einen „richtigen“ Computer um einen Arduino zu programmieren (nach der Programmierung funktioniert er dann aber selbständig). Dazu sind folgende Schritte nötig:
 
@@ -18,7 +18,7 @@ Wie erwähnt hat so ein Arduino keine Tastatur und keinen Bildschirm. Man benöt
 
 Damit ist euer Computer vorbereitet und im Prinzip könnt ihr nun loslegen. Wichtig: Wenn ihr auf einem unserer Workshops wart und einen Arduino habt, der so aussieht wie auf dem Bild rechts („Arduino Pro“), seid ihr doch noch nicht ganz fertig. Es handelt sich hierbei nämlich um sehr, sehr günstige Arduinos, die einen besonderen Chip für die USB-Kommunikation integriert haben. Wie die Installation funktioniert, steht [hier](https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/installing-windows). Leider gibt es die Anleitung nur auf Englisch. Wir arbeiten daran, eine Übersetzung anzubieten - wenn bis dahin Probleme auftreten, einfach bei uns nachfragen!
 
-**Elektronisches**
+## Elektronisches
 Damit wir in unserem ersten Projekt nicht zu viel komplizierte Dinge tun müssen, nutzen wir meist ein vorbereitetes Set, das in etwa aussieht wie auf dem Foto rechts. Hierfür sollte man wissen:
 
 Die schwarze Stecker-Leiste kann auf die „Pins“ (Die Metall-Stifte) des Arduinos gesteckt werden. Wichtig: rote und schwarze Kabel müssen in Richtung des USB-Anschlusses zeigen.
@@ -37,12 +37,12 @@ Nun haben wir eine LED, die über das gelbe Kabel und die Stecker-Leiste an den 
 
 Der Schalter hat erstmal noch nichts mit der LED zu tun. Er nutzt zwar die gleiche „Abwasserleitung“, nämlich das schwarze Kabel, aber ansonsten ist er separat. Wenn wir LED und Schalter zusammenbringen möchten, dann müssen wir das nun über den Arduino selbst und seine Software tun:
 
-**Programmierung**
+## Programmierung
 Öffnet die Arduino-Software, klickt auf „Werkzeuge“, dann auf „ArduBlock“. Ein neues Fenster öffnet sich (Achtung, beide Fenster müssen geöffnet bleiben. Bitte das Arduino-Fenster nicht schließen!). Ihr seid nun in der Ardublock-Umgebung:
 
 Auf der linken Seite findet ihr eure Werkzeugkiste, rechts ist dann sozusagen eure Werkbank oder Arbeitsfläche. Wir gehen jetzt Schritt für Schritt vor und nähern uns unserem Würfel an:
 
-**LED blinken lassen**
+## LED blinken lassen
 1. Klickt auf „Steuerung“ und zieht das Werkzeug „program“ in die Arbeitsfläche rechts. Ein „program“ ist die Basis jedes Arduino-Programmes! Die „loop“, also der untere Teil des „program“ läuft später auf dem Arduino immer wieder durch - hunderte von Malen pro Sekunde. Hier können wir also Aktionen starten:
 ![ardublock_start](Lehrmaterialien_allgemein/arduino/ardublock_start.jpg)
 2. Klickt auf „Pins“ in der Werkzeugkiste und zieht „Setze digital pin auf“ in die „loop“ des „program. Hier geben wir in das rote Feld „10“ ein und lassen das untere Feld auf „HIGH“. Das klingt kompliziert, heißt aber im Prinzip nichts anderes als „lasse Strom durch Pin 10 fließen“.
@@ -57,7 +57,7 @@ Das testen wir so: Wir schließen unseren Arduino per Micro-USB-Kabel an den Com
 
 
 
-**Zum Würfel ausbauen**
+## Zum Würfel ausbauen
 Unsere blinkende LED ist cool, aber wir haben ja höhere Ziele - und den Schalter haben wir bisher noch gar nicht benutzt! Das ändern wir nun, diesmal allerdings selbständiger. Das Ziel ist, etwas zu bauen, das genauso aussieht wie auf dem Foto! Versucht es einfach mal und fragt uns, wenn ihr nicht weiterkommt!
 
 ![ardublock_wuerfel](Lehrmaterialien_allgemein/arduino/ardublock_wuerfel.jpg)
