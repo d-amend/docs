@@ -18,6 +18,7 @@
         "toggle_code": true,
         "date_modified": true,
         "float": true,
+	"auto_landing": false
 
         "repo": "fablabsiegen/docs",
         "twitter": ["FabLabSiegen"],
