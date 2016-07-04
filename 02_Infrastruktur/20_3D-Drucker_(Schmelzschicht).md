@@ -23,13 +23,13 @@ Gerät |  Eigenschaften  | Externe Links
 Infos folgen
 
 ## Ultimaker 2 Extended <a name="um2e"></a>
-![](img_3d-drucker/um2e.jpg)
+![](img_3d-drucker/um2e.JPG)
 
 ## Lulzbot TAZ 5 <a name="taz5"></a>
-![](img_3d-drucker/taz5.jpg)
+![](img_3d-drucker/taz5.JPG)
 
 ## Aya <a name="aya"></a>
-![](img_3d-drucker/aya.jpg)
+![](img_3d-drucker/aya.JPG)
 
 
 ## Printrbot Simple Metal <a name="pbsm"></a>
