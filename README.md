@@ -1,5 +1,7 @@
 # Docs
 
-Hier findet ihr Dokumentationen zu Maschinen, Projekten, Lehrveranstaltungen und vielem mehr. Die Datenbasis aus denen sich die Dokumentationen zusammensetzt, liegt auf [https://github.com/FabLabSiegen/docs](GitHub) und wird täglich um 00:00 Uhr auf http://fablab-siegen.de/docs/ gespiegelt. 
+Documentation of all things related to Fab Lab Siegen. Served on http://fablab-siegen.de/docs/ using http://daux.io
 
-In-depth documentation of all things related to Fab Lab Siegen. Repo gets pulled to our server at 00:00 every night and is then served to http://fablab-siegen.de/daux/ using daux.io
+- File name and folder structure have to conform to daux standards. Please refer to http://daux.io/Getting_Started
+- If you would like to contribute other resources, please use https://github.com/FabLabSiegen/infrastructure or one of our other repos
+- This repo gets pulled to our server at 00:00 every night to update the web-served version
