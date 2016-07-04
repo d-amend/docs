@@ -1,4 +1,4 @@
-![](Laser_Images/photo_lasercutter_01.jpg)
+![](img_laser/photo_lasercutter_01.jpg)
 
 * Hersteller: EAS
 
@@ -7,4 +7,4 @@
 ### 1. Einschalten und verbinden
 Anschalten der Maschine (Sicherung auf der Rückseite auf _ON_. Drücken auf den grünen Knopf)
 LaserlineX6 starten:
-![](Laser_Images/laser01.PNG)
+![](img_laser/laser01.PNG)
