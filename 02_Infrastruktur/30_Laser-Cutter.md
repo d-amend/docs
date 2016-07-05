@@ -11,7 +11,7 @@ LaserlineX6-Software starten.
 ![](img_laser/laser01.PNG)
 
 Nach Hardware suchen.
-![](img_laser/laser02.PNG)
+![](img_laser/02.PNG)
 
 Gefundenen Drucker auswählen.
 ![](img_laser/laser03.PNG)
