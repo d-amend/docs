@@ -13,24 +13,24 @@ Zur Nutzung benötigt werden:
 Cura kann zum slicen von Modellen für AYA verwendet werden. Dazu muss in wenigen Schritten eine neue Maschine eingerichtet werden.
 
 * Menü: Maschine -> Add new machine…
-⋅⋅1. auf “Next >” klicken
-⋅⋅2. Maschinentyp “Andere (z.b.: RepRap, MakerBot, Witbox)” auswählen
-⋅⋅3. auf “Next >” klicken
-⋅⋅4. “DeltaBot” auswählen
-⋅⋅5. auf “Next >” klicken
-⋅⋅6. auf “Finish” klicken
+  1. auf “Next >” klicken
+  2. Maschinentyp “Andere (z.b.: RepRap, MakerBot, Witbox)” auswählen
+  3. auf “Next >” klicken
+  4. “DeltaBot” auswählen
+  5. auf “Next >” klicken
+  6. auf “Finish” klicken
 * Menü: Maschine -> Geräte-Einstellungen…
-⋅⋅1. Maximale Breite (mm): 170
-⋅⋅2. Maximale Tiefe (mm): 170
-⋅⋅3. Maximale Höhe (mm): 250
-⋅⋅4. Beheizter Drucktisch: Ja
-⋅⋅5. Mittelpunkt der Bau Plattform (0,0): Ja
-⋅⋅6. Druckflächenform: Circular
-⋅⋅7. GCode Art: RepRap
-⋅⋅8. auf “OK” klicken
+  1. Maximale Breite (mm): 170
+  2. Maximale Tiefe (mm): 170
+  3. Maximale Höhe (mm): 250
+  4. Beheizter Drucktisch: Ja
+  5. Mittelpunkt der Bau Plattform (0,0): Ja
+  6. Druckflächenform: Circular
+  7. GCode Art: RepRap
+  8. auf “OK” klicken
 * Grundlegend
-⋅⋅ Druckmaterial(mm): 1.75
-⋅⋅ Größe der Druckdüse (mm): 0.4
+  Druckmaterial(mm): 1.75
+  Größe der Druckdüse (mm): 0.4
 * Weitere Parameter nach Bedarf ändern/anpassen
 
 # Bedienungsanleitung:
