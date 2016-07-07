@@ -1,6 +1,6 @@
 ## ACHTUNG: ENTWURFSFASSUNG
 
-Dieser Entwurf einer Laborordnung für das Fab Lab Siegen wird im April 2016 ausschließlich zu Diskussions- und Kommentarzwecken veröffentlicht! Die Inhalte sind gemeinsam von Makern. Studierenden, WissenschaftlerInnen, dem Sicherheitsbeauftragten der Uni Siegen sowie dem AMZ Siegen erarbeitet worden und greift auch auch auf Erkenntnisse anderer Fab Labs zurück. Zum 03.06.2016 geht der Entwurf in die Beschlussphase innerhalb der Universität.
+Dieser Entwurf einer Laborordnung für das Fab Lab Siegen wurde im April 2016 ausschließlich zu Diskussions- und Kommentarzwecken veröffentlicht und wurde Anfang Juli zur Prüfung an den Betriebsrat der Universit übergeben. Die Inhalte sind gemeinsam von Makern. Studierenden, WissenschaftlerInnen, dem Bereich Arbeits- und Gesundheitsschutz der Uni Siegen sowie dem AMZ Siegen erarbeitet worden und greift insbesondere auch auf Erkenntnisse anderer Fab Labs wie z.B. vom [FAU Fab Lab](https://github.com/fau-fablab?utf8=%E2%9C%93&query=einweisung) an der Uni Erlangen, der Community um http://fabrikationslabor.de/ der des [Verbandes der offenen Werkstätten](http://www.offene-werkstaetten.org) zurück.
 
 ## Laborordnung (Entwurf)
 
@@ -74,11 +74,11 @@ Im Laufe des Betriebes können und werden auch Einzelprojekte, die Aktivitäten 
 
 ### Versicherungsschutz
 
-Ein Unfallversicherungsschutz über die zuständige Landesunfallkasse besteht für Beschäftigte der Universität und Studierende, die das Labor zur Erfüllung ihrer beruflichen bzw. studentischen Aufgaben nutzen, d.h., hierzu seitens der Dienstvorgesetzten oder des Lehrpersonals beauftragt sind.
+Ein Unfallversicherungsschutz über die zuständige Unfallkasse NRW besteht für Beschäftigte der Universität und Studierende, die das Labor zur Erfüllung ihrer beruflichen bzw. studentischen Aufgaben nutzen, d.h., hierzu seitens der Dienstvorgesetzten oder des Lehrpersonals beauftragt sind.
 
 Alle NutzerInnen des Labors haften für Schäden, die sie durch unsachgemäße Benutzung der vorhandenen Einrichtungen und Geräte verursacht haben. Der Abschluss einer Haftpflichtversicherung wird daher empfohlen.
 
-**Weiterer Stand Juni 2016:** Der Abschluss einer Betriebshaftpflichtversicherung ist notwendig. Eine einfache, wenngleich nicht unbedingt preisgünstige, Lösung ist der Erwerb eines traditionellen Versicherungsproduktes. Alternativ ist derzeit in Prüfung, ob ein Angebot des Verbandes der offenen Werkstätten ausreicht (http://www.offene-werkstaetten.org/seite/versicherung) und auch die Landesunfallkasse diskutiert die veränderte Bedürfnislage zahlreicher neuartiger, offener Werkstätten und ähnlicher Orte, benötigt jedoch noch Diskussion, Einblick und Stimmen (wobei Kooperation mit dem Fab Lab Siegen besprochen wurde). Je nach Entwicklung in den nächsten Monaten soll die Laborordnung mit einem Passus vervollständigt werden, der die endgültige Lösung darstellt.
+**Weiterer Stand Juni 2016:** Der Abschluss einer Betriebshaftpflichtversicherung ist notwendig. Eine einfache, wenngleich nicht unbedingt preisgünstige, Lösung ist der Erwerb eines traditionellen Versicherungsproduktes. Alternativ ist derzeit in Prüfung, ob ein Angebot des Verbandes der offenen Werkstätten ausreicht (http://www.offene-werkstaetten.org/seite/versicherung) und auch die Unfallkasse NRW diskutiert die veränderte Bedürfnislage zahlreicher neuartiger, offener Werkstätten und ähnlicher Orte, benötigt jedoch noch Diskussion, Einblick und Stimmen (wobei Kooperation mit dem Fab Lab Siegen besprochen wurde). Je nach Entwicklung in den nächsten Monaten soll die Laborordnung mit einem Passus vervollständigt werden, der die endgültige Lösung darstellt.
 
 
 ## Sauberkeit, Lärm und Abfälle

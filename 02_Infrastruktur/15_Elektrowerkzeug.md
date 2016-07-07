@@ -1,5 +1,7 @@
 Manuell zu bedienende Elektrogeräte / -Werkzeuge.
 
+![](/img_e-werkzeuge/nebenraum1.jpg)
+
 **Notwendige Einweisungen:** [Allgemeine Sicherheitseinweisung](!Einweisungen_und_Regeln/index), [Elektrowerkzeuge](!Einweisungen_und_Regeln/Einweisung_Elektro-Werkzeuge/index)
 
 ## Im Lab vorhanden

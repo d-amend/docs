@@ -1,4 +1,4 @@
 
-![](laser.jpg)
+![](img_laser/infrastruktur.jpg)
 
-Bedienungsanleitungen, Tutorials und Ressourcen zu Raum und Ausstattung des Labs.
+Ausstattung und Raum des Labs.

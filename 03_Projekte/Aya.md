@@ -1,4 +1,4 @@
-#Delta Robot 3D-Drucker "AYA"
+## Delta Robot 3D-Drucker "AYA"
 
 AYA ist ein Delta Robot 3D-Drucker aus der RepRap Familie, genau genommen handelt es sich um das Modell Kossel Mini.
 http://reprap.org/wiki/Kossel
@@ -8,7 +8,7 @@ Zur Nutzung benötigt werden:
 * Eine SD-Karte
 * Ein Slicer nach Wahl, wir erläutern weiter unten die Nutzung von Cura
 
-#Einrichtung Cura 
+## Einrichtung Cura
 
 Cura kann zum slicen von Modellen für AYA verwendet werden. Dazu muss in wenigen Schritten eine neue Maschine eingerichtet werden.
 
@@ -33,15 +33,16 @@ Cura kann zum slicen von Modellen für AYA verwendet werden. Dazu muss in wenige
   Größe der Druckdüse (mm): 0.4
 * Weitere Parameter nach Bedarf ändern/anpassen
 
-# Bedienungsanleitung:
-# 1. Grundsätzliches
+## Bedienungsanleitung:
+
+#### Grundsätzliches
 * Die Maschine wird über den Ein-/Aus-Schalter am Netzteil ein- bzw. ausgeschaltet.
 * Zum Drucken wird kein Computer benötigt, der G-Code wird direkt über eine SD-Karte eingelesen.
 * Der Filamentwechsel erfordert einen Computer. Wir haben mit printrun (http://www.pronterface.com) gute Erfahrungen gemacht
 * Mit dem kleinen Drehknopf kann durch das Menu navigiert werden
 * Es kommt vor, das der Drucker beim Aufheizen nicht reagiert. Genaue Ursachen sind noch unbekannt. Bisher hat komplett ausschalten und wieder einschalten geholfen
 
-# Drucken
+#### Drucken
  1. Die SD-Karte mit dem G-Code wird seitlich eingeführt
  2. Drehknopf einmal drücken, um das Menü zu öffnen
  3. Im Menü "Print from SD" auswählen und bestätigen
