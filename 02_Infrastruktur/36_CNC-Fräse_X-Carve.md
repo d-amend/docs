@@ -1,8 +1,9 @@
+![](img_cnc/xcarve.JPG)
 
-## X-carve
+**Notwendige Einweisungen:** [Allgemeine Sicherheitseinweisung](!Einweisungen_und_Regeln/index), [Fräsen](!Einweisungen_und_Regeln/Einweisung_Fräse/index)
+
 * Hersteller: Inventables
 * [Bedienungsanleitung](http://x-carve-instructions.inventables.com/)
-
 
 
 Zur Nutzung benötigt werden:

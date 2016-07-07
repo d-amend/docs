@@ -44,3 +44,14 @@ Infos folgen
 
 
 ## Makerbot Replicator 2x <a name="mbrep2x"></a>
+
+
+## Bedarfe
+- Verbrauchsmaterialien (jede Menge)
+- Vorrat an Ersatz- / Verbrauchsteilen
+
+## ToDo
+
+- Genauere Auflistung, insb. "seltenere" Werkzeuge, soweit vorhanden
+- Fotos
+- Bedarfe ergänzen
