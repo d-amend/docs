@@ -1,4 +1,4 @@
-![](img_cnc/xcarve.JPG)
+![](img_cnc/xcarve1.JPG)
 
 **Notwendige Einweisungen:** [Allgemeine Sicherheitseinweisung](!Einweisungen_und_Regeln/index), [Fräsen](!Einweisungen_und_Regeln/Einweisung_Fräse/index)
 
