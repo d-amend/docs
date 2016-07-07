@@ -21,7 +21,7 @@ Manuell zu bedienende Elektrogeräte / -Werkzeuge.
 - Bandsäge
 - Gute Bohrer (derzeit eher Standardware mit Qualität "OK" vorhanden wegen Lehr-Einsatz)
 
-### ToDo zu diesem Dokument:
+### ToDo
 - Ergänzen, aufhübschen (Tabelle?)
 - Hersteller-Infos
 - Fotos

@@ -1,6 +1,6 @@
 Manuell zu bedienende Elektrogeräte / -Werkzeuge.
 
-**Notwendige Einweisungen:** [Allgemeine Sicherheitseinweisung](!Einweisungen_und_Regeln/index), [Elektronik-Bereich](!Einweisungen_und_Regeln/Einweisung_Elektronik-Bereich/index)
+**Notwendige Einweisungen:** [Allgemeine Sicherheitseinweisung](!Einweisungen_und_Regeln/index), [Elektronik-Bereich](!Einweisungen_und_Regeln/Einweisung_E-Werkstatt/index)
 
 ### Equipment
 
