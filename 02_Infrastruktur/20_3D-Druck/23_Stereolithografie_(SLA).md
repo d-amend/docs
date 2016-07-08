@@ -1,7 +1,6 @@
 3D-Drucker, die nach dem [Stereolithografie-Verfahren](https://de.wikipedia.org/wiki/Fused_Deposition_Modeling) (SLA) arbeiten.És können Teile aus verschiedenen Kunststoffen hergestellt werden, die sehr detailliert und fein sind.  
 
-![3D-Druck, laufend](img_3d-drucker/sla.jpg)
-Rot: FDM-Druck, Holz: Gefräst auf X-Carve, Grau: SLA-Druck auf Form 1+ (erste Versuche, Resultate noch suboptimal)
+![](img_3d-drucker/sla3.jpg)
 
 **Notwendige Einweisungen:** [Allgemeine Sicherheitseinweisung](!Einweisungen_und_Regeln/index), [3D-Drucker](!Einweisungen_und_Regeln/Einweisung_3D-Drucker/index)
 
@@ -9,6 +8,8 @@ Rot: FDM-Druck, Holz: Gefräst auf X-Carve, Grau: SLA-Druck auf Form 1+ (erste V
 
 - Formlabs Form 1+ [(Herstellersupport)](http://formlabs.com/support/printers/form-1/get-ready-receive-your-printer/)
 
+![](img_3d-drucker/sla2.jpg)
+Fertiger Druck vor dem Entfernen der Stützmaterialien
 
 ### Bedarfe:
 - Wechsel-Becken für verschiedene Materialien
