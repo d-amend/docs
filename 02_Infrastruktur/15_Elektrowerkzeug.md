@@ -1,6 +1,6 @@
 Manuell zu bedienende Elektrogeräte / -Werkzeuge.
 
-![](/img_e-werkzeuge/nebenraum1.jpg)
+![](img_e-werkzeuge/nebenraum1.jpg)
 
 **Notwendige Einweisungen:** [Allgemeine Sicherheitseinweisung](!Einweisungen_und_Regeln/index), [Elektrowerkzeuge](!Einweisungen_und_Regeln/Einweisung_Elektro-Werkzeuge/index)
 
@@ -22,6 +22,7 @@ Manuell zu bedienende Elektrogeräte / -Werkzeuge.
 - Schweißgerät
 - Bandsäge
 - Gute Bohrer (derzeit eher Standardware mit Qualität "OK" vorhanden wegen Lehr-Einsatz)
+- Bei intensiverer Nutzung von Fräsen, Schleifern, etc. könnten eine größer dimensionierte Absauganlage, Spänefang, etc. sinnvoll sein
 
 ### ToDo
 - Ergänzen, aufhübschen (Tabelle?)
