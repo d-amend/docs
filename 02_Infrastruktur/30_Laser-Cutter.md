@@ -39,7 +39,10 @@ Das führt dazu, dass nach dem Auslesen in LaserLine die Objekte außerhalb der 
 Indem wir das _Koordinatenursprungssymbol_ oben links per Drag and Drop an die gewünschte Stelle ziehen kann der Ursprung nach oben links in die Zeichnung gelegt werden.
 ![](img_laser/laser08.PNG)
 
-In der leeren Zeichnung existieren bereits mehrere Ebenen. Hiervon berücksichtigt LaserLine beim Auslesen nur die beiden (im Bild bereits umbenannten) Ebenen _Schneiden_ und _Gravieren_. (Warum ist das so? Hinweise bitte an Oli oder Moe)
+In der leeren Zeichnung existieren bereits mehrere Ebenen. Hiervon berücksichtigt LaserLine beim Auslesen nur die beiden (im Bild bereits umbenannten) Ebenen _Schneiden_ und _Gravieren_.
+```
+Warum ist das so? Hinweise bitte an Oli oder Moe)
+```
 ![](img_laser/laser09.PNG)
 Manuell neu erstellte Ebenen werden allerdings ebenfalls durch LaserLine ausgelesen.
 
