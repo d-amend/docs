@@ -44,10 +44,10 @@ In der leeren Zeichnung existieren bereits mehrere Ebenen. Hiervon berücksichti
 Manuell neu erstellte Ebenen werden allerdings ebenfalls durch LaserLine ausgelesen.
 
 Jetzt kann man die gewünschte Zeichnung anfertigen, importieren etc.
-Zu beachten ist, dass Objekte die mit unterschiedlicher Geschwindigkeit oder mit unterschiedlicher Stärke gelasert werden sollen, auf jeden Fall in unterschiedlichen Ebenen befinden müssen. Alle Laser-Parameter lassen sich immer nur pro Ebene festlegen.
+Zu beachten ist, dass Objekte die mit unterschiedlicher Geschwindigkeit oder mit unterschiedlicher Stärke gelasert werden sollen, sich auf jeden Fall in unterschiedlichen Ebenen befinden müssen. Alle Laser-Parameter lassen sich immer nur pro Ebene festlegen.
 
 Weiterhin ist wichtig, dass mehrene Objekte innerhalb einer Ebene vor dem Auslesen durch LaserLine kombiniert werden müssen!
-_TODO_ Bild / Menüpunkte
+`_TODO_ Bild / Menüpunkte`
 Ohne kombinieren wird jeweils nur das erste Objekt pro Ebene ausgelasert!
 
 ### 3. Auslesen, Parametrisieren, Verarbeiten
