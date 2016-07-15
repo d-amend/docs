@@ -5,9 +5,10 @@ Schneiden und Gravieren von Holz, Pappe, Acryl, ...
 **Notwendige Einweisungen:** [Allgemeine Sicherheitseinweisung](!Einweisungen_und_Regeln/index), [Laser](!Einweisungen_und_Regeln/Einweisung_Laser/index)
 
 * Hersteller: EAS
+* Bedienungsanleitung des Herstellers: [PDF](anleitung_laser.pdf)
 
 
-## Bedienungsanleitung:
+## Tutorial:
 ### 1. Einschalten und verbinden
 Anschalten der Maschine (Sicherung auf der Rückseite auf _ON_. Drücken auf den grünen Knopf vorne)
 
