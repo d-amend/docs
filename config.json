@@ -3,6 +3,7 @@
     "tagline": false,
     "author": "Fab Lab Siegen",
     "image": "fablablogo.png",
+    "languages": { "de": "German", "en": "English" }
     "ignore": {
             "files": ["Work_In_Progress.md"],
             "folders": ["99_Not_Ready"]
@@ -18,6 +19,7 @@
         "toggle_code": true,
         "date_modified": true,
         "float": true,
+	"auto_landing": false,
 
         "repo": "fablabsiegen/docs",
         "twitter": ["FabLabSiegen"],
