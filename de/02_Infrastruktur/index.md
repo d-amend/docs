@@ -1,4 +1,4 @@
 
-![](img_laser/infrastruktur.jpg)
+![](infrastruktur.jpg)
 
 Ausstattung und Raum des Labs.

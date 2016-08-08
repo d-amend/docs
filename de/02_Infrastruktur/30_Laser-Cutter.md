@@ -2,7 +2,7 @@ Schneiden und Gravieren von Holz, Pappe, Acryl, ...
 
 ![](img_laser/photo_lasercutter_01.jpg)
 
-**Notwendige Einweisungen:** [Allgemeine Sicherheitseinweisung](!Einweisungen_und_Regeln/index), [Laser](!Einweisungen_und_Regeln/Einweisung_Laser/index)
+**Notwendige Einweisungen:** [Allgemeine Sicherheitseinweisung](!de/Einweisungen_und_Regeln/index), [Laser](!de/Einweisungen_und_Regeln/Einweisung_Laser/index)
 
 * Hersteller: EAS
 * Bedienungsanleitung des Herstellers: [PDF](anleitung_laser.pdf)

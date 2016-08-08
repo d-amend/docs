@@ -2,7 +2,7 @@ Portalfräse, 1500mm x 800mm x 170mm Verfahrweg. 2.2kW Spindel, auswechselbar mi
 
 ![](img_cnc/eas1.jpg)
 
-**Notwendige Einweisungen:** [Allgemeine Sicherheitseinweisung](!Einweisungen_und_Regeln/index), [Fräse](!Einweisungen_und_Regeln/Einweisung_Fräse/index)
+**Notwendige Einweisungen:** [Allgemeine Sicherheitseinweisung](!de/Einweisungen_und_Regeln/index), [Fräse](!de/Einweisungen_und_Regeln/Einweisung_Fräse/index)
 
 ## Basis-Infos
 * Gerätehersteller: EAS, Typ Heavy 800XL [Herstellerlink](http://www.easgmbh.de/CNC-Maschinen/Fraesmaschinen/HEAVY/800XL)

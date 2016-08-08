@@ -2,7 +2,7 @@
 
 ![](img_3d-drucker/sla3.jpg)
 
-**Notwendige Einweisungen:** [Allgemeine Sicherheitseinweisung](!Einweisungen_und_Regeln/index), [3D-Drucker](!Einweisungen_und_Regeln/Einweisung_3D-Drucker/index)
+**Notwendige Einweisungen:** [Allgemeine Sicherheitseinweisung](!de/Einweisungen_und_Regeln/index), [3D-Drucker](!de/Einweisungen_und_Regeln/Einweisung_3D-Drucker/index)
 
 ## SLA-Drucker im Lab:
 
