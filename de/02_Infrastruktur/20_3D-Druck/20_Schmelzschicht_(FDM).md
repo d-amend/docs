@@ -1,8 +1,8 @@
 3D-Drucker, die nach dem [Schmelzschicht-Verfahren](https://de.wikipedia.org/wiki/Fused_Deposition_Modeling) (engl. Fused Deposition Modeling, FDM) arbeiten. Das sieht so aus:
 
-![3D-Druck, laufend](img_3d-drucker/fdm.jpg)
+![](img_3d-drucker/fdm.jpg)
 
-**Notwendige Einweisungen:** [Allgemeine Sicherheitseinweisung](!de/Einweisungen_und_Regeln/index), [3D-Drucker](!de/Einweisungen_und_Regeln/Einweisung_3D-Drucker/index)
+**Notwendige Einweisungen:** [Allgemeine Sicherheitseinweisung](!de/Einweisungen_und_Regeln/Grundregeln/index), [3D-Drucker](!de/Einweisungen_und_Regeln/Einweisung_3D-Drucker/index)
 
 ## FDM- Drucker im Lab
 
