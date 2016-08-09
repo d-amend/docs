@@ -14,7 +14,7 @@
 - Prüfungsleistung: Projektarbeit und Dokumentation selbiger (open source)
 
 *Mehr Infos:*
-Eines der Vorbilder der Lehrveranstaltung ist "How to Make (Almost) Anything (HTMAA)", ein Kurs am MIT und mittlerweile auch anderen Hochschulen in den USA, der gleichzeitig die Keimzelle der Fab Lab-Bewegung war und der seit Jahren sehr erfolgreich immer wieder gehalten wird. Einen umfangreichen Einblick in den dortigen Aufbau und die entstandenen Projekte gibt es [hier](http://fab.cba.mit.edu/classes/4.140/). Achtung, nicht von der sehr reduzierten Darstellung täuschen lassen! Besonders unter "prior years" finden sich *unzählige* Informationen und Berichte darüber, was in den Kursen behandelt wurde und entstanden ist. Wer es kondensierter und bebilderter mag, findet z.B. [https://goo.gl/L264qb](hier) die Abschlusspräsentation der Harvard-HTMAA-Class of 2015.
+Eines der Vorbilder der Lehrveranstaltung ist "How to Make (Almost) Anything (HTMAA)", ein Kurs am MIT und mittlerweile auch anderen Hochschulen in den USA, der gleichzeitig die Keimzelle der Fab Lab-Bewegung war und der seit Jahren sehr erfolgreich immer wieder gehalten wird. Einen umfangreichen Einblick in den dortigen Aufbau und die entstandenen Projekte gibt es [hier](http://fab.cba.mit.edu/classes/4.140/). Achtung, nicht von der sehr reduzierten Darstellung täuschen lassen! Besonders unter "prior years" finden sich *unzählige* Informationen und Berichte darüber, was in den Kursen behandelt wurde und entstanden ist. Wer es kondensierter und bebilderter mag, findet z.B. [hier](https://goo.gl/L264qb) die Abschlusspräsentation der Harvard-HTMAA-Class of 2015.
 
 
 *Anrechnung:*
