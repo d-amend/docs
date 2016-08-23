@@ -2,7 +2,7 @@ Bereich für Elektronik-Arbeiten.
 
 ![](img_e-werkstatt/e1.jpg)
 
-**Notwendige Einweisungen:** [Allgemeine Sicherheitseinweisung](!de/Einweisungen_und_Regeln/index), [Elektronik-Bereich](!de/Einweisungen_und_Regeln/Einweisung_E-Werkstatt/index)
+**Notwendige Einweisungen:** [Allgemeine Sicherheitseinweisung](!de/Einweisungen_und_Regeln/Grundregeln/index), [Elektronik-Bereich](!de/Einweisungen_und_Regeln/Einweisung_E-Werkstatt/index)
 
 ### Equipment
 

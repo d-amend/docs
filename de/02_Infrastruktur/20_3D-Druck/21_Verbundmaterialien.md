@@ -2,7 +2,7 @@ Neue Drucker, die per FDM Kunststoffe mit Fasermaterialien kombinieren. Es könn
 
 ![](img_3d-drucker/markforged1.JPG)
 
-**Notwendige Einweisungen:** [Allgemeine Sicherheitseinweisung](!de/Einweisungen_und_Regeln/index), [3D-Drucker](!de/Einweisungen_und_Regeln/Einweisung_3D-Drucker/index), zusätzlich vorerst Erfahrung mit 3D-Druck und Maschinen sowie Absprache mit der Lab-Koordination erforderlich.
+**Notwendige Einweisungen:** [Allgemeine Sicherheitseinweisung](!de/Einweisungen_und_Regeln/Grundregeln/index), [3D-Drucker](!de/Einweisungen_und_Regeln/Einweisung_3D-Drucker/index), zusätzlich vorerst Erfahrung mit 3D-Druck und Maschinen sowie Absprache mit der Lab-Koordination erforderlich.
 
 ## Infos
 

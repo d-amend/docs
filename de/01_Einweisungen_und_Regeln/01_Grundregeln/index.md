@@ -1,9 +1,7 @@
-In die Grundregeln des Labs wird in der "Allgemeinen Sicherheitseinweisung" eingeführt.
+Die allgemeine Sicherheitseinweisung ("Grundregeln") führt in die Laborordnung ein. Erklärt werden also die Nutzungs- und Zugangsregeln für das Lab als Ganzes (nicht für spezifische Geräte)
 
-[**Entwurf** allgemeine Sicherheitseinweisung](allgemeine_sicherheitseinweisung.pdf)
+[Plakat "allgemeine Sicherheitseinweisung"](allgemeine_sicherheitseinweisung.pdf)
 
 
 ToDo:
 - Inhalte des Plakates in die docs übernehmen
-- Konkreten Ablauf im Lab festlegen und dokumentieren (welche Stationen, etc.)
-- Unterschriftenliste

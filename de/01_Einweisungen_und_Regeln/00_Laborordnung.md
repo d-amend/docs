@@ -1,7 +1,3 @@
-## ACHTUNG: ENTWURFSFASSUNG
-
-Dieser Entwurf einer Laborordnung für das Fab Lab Siegen wurde im April 2016 ausschließlich zu Diskussions- und Kommentarzwecken veröffentlicht und wurde Anfang Juli zur Prüfung an den Betriebsrat der Universit übergeben. Die Inhalte sind gemeinsam von Makern. Studierenden, WissenschaftlerInnen, dem Bereich Arbeits- und Gesundheitsschutz der Uni Siegen sowie dem AMZ Siegen erarbeitet worden und greift insbesondere auch auf Erkenntnisse anderer Fab Labs wie z.B. vom [FAU Fab Lab](https://github.com/fau-fablab?utf8=%E2%9C%93&query=einweisung) an der Uni Erlangen, der Community um http://fabrikationslabor.de/ der des [Verbandes der offenen Werkstätten](http://www.offene-werkstaetten.org) zurück.
-
 ## Laborordnung (Entwurf)
 
 Die vorliegende Ordnung bezieht sich auf das [Fab Lab Siegen](http://www.fablab-siegen.de), dt. "Fabrikationslabor", im Folgenden "Labor" der Universität Siegen. Das Labor ist eine offene , neuartige Werkstatt zum Zwecke der Forschung und Lehre zu verteilten Fabrikationsinfrastrukturen.
@@ -10,7 +6,7 @@ Die vorliegende Ordnung bezieht sich auf das [Fab Lab Siegen](http://www.fablab-
 
 Organisatorisch gliedert sich das Fab Lab Siegen in das ebenfalls "Fab Lab Siegen" benannte Forschungsprojekt der [iSchool Siegen](http://www.ischool-siegen.de) ein, Prof. Dr. Volkmar Pipek fungiert als übergeordnet verantwortlicher Leiter.
 
-Mindestens zwei MitarbeiterInnen der Universität Siegen werden als Lab-KoordinatorInnen benannt. Diese KoordinatorInnen bekommen schriftlich durch die/den verantwortliche/n Leitende/n des Projektes die Pflicht übertragen, für den regel- und sicherheitskonformen Betrieb des Labors Sorge zu tragen sowie die Lehr- und Forschungsaktivitäten im und um das Labor zu koordinieren. Dem auch bürger-orientierten, offenen und agilen Charakter des Labores entsprechend, ist dies in enger und individueller Absprache mit dem für Fragen der Arbeitssicherheit zuständigen Bereich Arbeitsschutz der Zentralverwaltung sowie den NutzerInnen des Labors selbst durchzuführen. Für den laufenden Laborbetrieb sind die Lab-KoordinatorInnen zentrale AnsprechpartnerInnen für Unklarheiten, Ausnahmefälle und andere Anliegen. Ihren Anweisungen ist Folge zu leisten. Aktuelle Lab-Koordination: [Oliver Stickel](http://www.wiwi.uni-siegen.de/cscw/team/stickel/index.html) und [Dominik Hornung](maito:dominik.hornung@uni-siegen.de).
+Mindestens zwei MitarbeiterInnen der Universität Siegen werden als Lab-KoordinatorInnen benannt. Diese KoordinatorInnen bekommen schriftlich durch die/den verantwortliche/n Leitende/n des Projektes die Pflicht übertragen, für den regel- und sicherheitskonformen Betrieb des Labors Sorge zu tragen sowie die Lehr- und Forschungsaktivitäten im und um das Labor zu koordinieren. Dem auch bürger-orientierten, offenen und agilen Charakter des Labores entsprechend, ist dies in enger und individueller Absprache mit dem für Fragen der Arbeitssicherheit zuständigen Bereich Arbeitsschutz der Zentralverwaltung sowie den NutzerInnen des Labors selbst durchzuführen. Für den laufenden Laborbetrieb sind die Lab-KoordinatorInnen zentrale AnsprechpartnerInnen für Unklarheiten, Ausnahmefälle und andere Anliegen. Ihren Anweisungen ist Folge zu leisten. Aktuelle Lab-Koordination: [Oliver Stickel](http://www.wiwi.uni-siegen.de/cscw/team/stickel/index.html). 
 
 ## Teil A: Grundregeln
 
