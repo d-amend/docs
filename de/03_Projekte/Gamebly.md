@@ -18,3 +18,13 @@ Jasmin und David
 ## Installation zur Benutzung des NodeMCU-Boards
 Es müssen Treiber installiert werden (CP2102)
 [Link](https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx)
+
+
+
+## Verwendete Tools
+* [Plattformio](http://platformio.org) als Entwicklungsumgebung
+* [Git-Hub](http://github.com) zur Versionierung des Codes
+
+## Code
+[Git-Repo](https://github.com/d-amend/Gamebly)
+
