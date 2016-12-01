@@ -19,7 +19,8 @@ Jasmin und David
 Es müssen Treiber installiert werden (CP2102)
 [Link](https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx)
 
-
+### Anschluss Apa102C-LED-Streifen
+![Schaltplan](http://www.elec-tron.org/wp-content/uploads/2015/12/nodetoapaq102.png)
 
 ## Verwendete Tools
 * [Plattformio](http://platformio.org) als Entwicklungsumgebung
