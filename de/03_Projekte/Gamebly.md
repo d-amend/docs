@@ -9,12 +9,12 @@ Jasmin und David
 
 
 ## Verwendete Hardware
-* Amica Board
+* NodeMCU-Board
 * Apa102C-LED-Streifen 
     * 3 x 5 Meter
     * 30 LEDs pro Meter
 
 
-## Installation zur Benutzung des Amica-Boards
+## Installation zur Benutzung des NodeMCU-Boards
 Es müssen Treiber installiert werden (CP2102)
-https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx
+[Link](https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx)
