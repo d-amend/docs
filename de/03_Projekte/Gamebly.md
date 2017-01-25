@@ -29,3 +29,14 @@ Es müssen Treiber installiert werden (CP2102)
 ## Code
 [Git-Repo](https://github.com/d-amend/Gamebly)
 
+## Related Work
+
+### All Pixel
+
+https://github.com/ManiacalLabs/AllPixel
+
+#### Pro
+
+#### Kontra
+
+- kein Mapping
