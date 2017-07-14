@@ -1,4 +1,4 @@
-3D-Drucker, die nach dem [Stereolithografie-Verfahren](https://de.wikipedia.org/wiki/Fused_Deposition_Modeling) (SLA) arbeiten.És können Teile aus verschiedenen Kunststoffen hergestellt werden, die sehr detailliert und fein sind.  
+3D-Drucker, die nach dem [Stereolithografie-Verfahren](https://de.wikipedia.org/wiki/Stereolithografie) (SLA) arbeiten. Es können Teile aus verschiedenen Kunststoffen hergestellt werden, die sehr detailliert und fein sind. Formlabs stellt einen sehr ausführlichen [Guide](https://formlabs.com/blog/ultimate-guide-to-stereolithography-sla-3d-printing/) rund um das Thema SLA zur Verfügung.  
 
 ![](img_3d-drucker/sla3.jpg)
 
